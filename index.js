@@ -3,17 +3,18 @@ let cards = [
     {
         id: 1,
         name: 'Ali',
-        cardNo:'ASD1234ASD'
+        value:'500'
     },
 
     {
         id: 2,
         name: 'Ali',
-        cardNo:'ASD1234ASD'
+        value:'500'
     },
     {
         id: 3,
         name: 'asASDFFG567'
+    ,value:'500'
     },
 
 ];
