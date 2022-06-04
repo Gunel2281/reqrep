@@ -2,19 +2,19 @@ console.clear();
 let cards = [
     {
         id: 1,
-        name: 'Ali',
+        name: 'wending-machine',
         value:'500'
     },
 
     {
         id: 2,
-        name: 'Ali',
-        value:'500'
+        name: 'airpod',
+        value:'100'
     },
     {
         id: 3,
-        name: 'asASDFFG567'
-    ,value:'500'
+        name: 'car'
+    ,value:'100000'
     },
 
 ];
